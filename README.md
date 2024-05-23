@@ -4,7 +4,7 @@
 
 <h1 align="left">Hey 👋, I'm Nitish</h1>
 <h3 align="left">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/nitish220/nitish220/assets/72302875/86b4911b-0dc2-4d1c-ab39-31bd63e4a52e">
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/watch?v=90olc2-Z2u8&ab_channel=TheAlgorithm">
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish220" alt="nitish220" /--></a> </p>
 
