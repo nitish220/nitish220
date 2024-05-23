@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Hey 👋, I'm C Nitish Kumar Reddy</h1>
+<h1 align="left">Hey 👋, I'm Nitish</h1>
 <h3 align="left">A passionate developer from India</h3>
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish220" alt="nitish220" /--></a> </p>
