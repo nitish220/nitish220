@@ -5,7 +5,6 @@
 <h1 align="Center">Hey 👋, I'm Nitish</h1>
 <h3 align="center">Undergraduate at Manipal Institute of Technology</h3>
 <br>
-<img align="center" alt="coding" width="450" height="275" src="https://github.com/nitish220/nitish220/assets/72302875/58797ffd-31f9-4c05-97ae-0454bb659b18">
 
 
 
@@ -25,6 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish220&show_icons=true&locale=en&layout=compact" alt="nitish220" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitish220&show_icons=true&locale=en" alt="nitish220" /></p>
+<img align="center" alt="coding" width="450" height="275" src="https://github.com/nitish220/nitish220/assets/72302875/58797ffd-31f9-4c05-97ae-0454bb659b18">
+
 
 
 <!--
