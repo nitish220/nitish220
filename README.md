@@ -4,7 +4,7 @@
 
 <h1 align="Center">Hey 👋, I'm Nitish</h1>
 <h3 align="center">Undergraduate at Manipal Institute of Technology</h3>
-<img align="center" alt="coding" width="175" height="175" src="https://github.com/nitish220/nitish220/assets/72302875/58797ffd-31f9-4c05-97ae-0454bb659b18">
+<img align="center" alt="coding" width="275" height="175" src="https://github.com/nitish220/nitish220/assets/72302875/58797ffd-31f9-4c05-97ae-0454bb659b18">
 
 
 
